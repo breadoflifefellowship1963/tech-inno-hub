@@ -100,4 +100,10 @@
   .text-container {
     text-align: justify;
   }
+  #box{
+    height: 188px;
+  }
+  #box p{
+    font-size: 10px;
+  }
 }
